@@ -22,6 +22,8 @@ const Calculator = {
   subtract:(a,b)=>a-b,
   multiply:(a,b)=>a*b,
   divide:(a,b)=>a/b,
+}
 
-
+function actionApplyer(){
+  
 }
