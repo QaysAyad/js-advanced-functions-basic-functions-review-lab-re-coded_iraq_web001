@@ -18,6 +18,6 @@ function wrapAdjective(visualFlair='*'){
 }
 
 const Calculator = {
-  add:function(a,b)=>a+b,
+  add:(a,b)=>a+b,
 
 }
