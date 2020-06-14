@@ -16,3 +16,8 @@ function wrapAdjective(visualFlair='*'){
 
   }
 }
+
+const Calculator = {
+  add:funt,
+
+}
