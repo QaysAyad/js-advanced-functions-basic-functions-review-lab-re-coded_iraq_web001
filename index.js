@@ -20,6 +20,8 @@ function wrapAdjective(visualFlair='*'){
 const Calculator = {
   add:(a,b)=>a+b,
   subtract:(a,b)=>a-b,
+  multiply:(a,b)=>a*b,
+  
 
 
 }
