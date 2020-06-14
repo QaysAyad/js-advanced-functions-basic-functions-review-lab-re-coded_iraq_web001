@@ -24,6 +24,8 @@ const Calculator = {
   divide:(a,b)=>a/b,
 }
 
-function actionApplyer(){
-
+function actionApplyer(a,b){
+  let aa=a;
+b.forEach(e=>aa=e(aa));
+return aa;
 }
