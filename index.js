@@ -19,7 +19,7 @@ function wrapAdjective(visualFlair='*'){
 
 const Calculator = {
   add:(a,b)=>a+b,
-  subtract:(a,b)=>b-a,
+  subtract:(a,b)=>a-b,
 
 
 }
